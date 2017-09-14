@@ -13,9 +13,12 @@ modified:   README.md
 modified:   _config.yml
 modified:   _layouts/landing.html
 modified:   assets/css/style.css
-deleted:    assets/images/README.md
-deleted:    assets/images/picDL.jpg
-deleted:    assets/images/picML.jpg
+new file:   assets/images/banner/814d162d7a1d74085bce0c93f22de276--mexico-flag-mexicans.jpg
+renamed:    assets/images/README.md -> assets/images/banner/README.md
+new file:   assets/images/banner/banner_ml4mx_v00.png
+new file:   assets/images/banner/drawing.svg
+renamed:    assets/images/picDL.jpg -> assets/images/banner/picDL.jpg
+renamed:    assets/images/picML.jpg -> assets/images/banner/picML.jpg
 modified:   docs/MESSAGES.md
 modified:   docs/README.md
 modified:   docs/TODO.md

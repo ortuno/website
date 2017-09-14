@@ -4,11 +4,14 @@ TODO List
 # PRIORITY
 
 - [ ] Create a gmail account so as to have a contact email for anyone who might be
-interested in Machine Learning for Mexico.
+interested in Machine Learning for Mexico. **Can anyone help with this one?**
+- [ ] Create a data base for the founder member and add it to the website.
+- [ ] Add projects to the website
+
 
 # NORMAL
-- [ ] Create a data base for the members and add it to the webpage.
- This is a good example of the use of the members [CDI.ponentes](https://www.ciudaddelasideas.com/ponentes.php?ayo=2017)
+
+- [ ] For the members site, this is a good example of the use of the members [CDI.ponentes](https://www.ciudaddelasideas.com/ponentes.php?ayo=2017)
 - [ ] Create a release or version list for the webpage
 - [ ] Create a bilingual webpage
 - [ ] Review what other research groups are doing in the area of Machine Learning and put it into a post.
