@@ -17,7 +17,11 @@ interested in Machine Learning for Mexico. **Can anyone help with this one?**
 - [ ] Review what other research groups are doing in the area of Machine Learning and put it into a post.
 The review can consider, for the time being, the following aspects: number of research groups and number of members, data (availability, type of data),
 algorithms and frameworks. A table would be nice to present such review:
-[China](http://mldm.ict.ac.cn/MLDM/Home.html), [USA](https://www.cs.utexas.edu/~ml/), [UK](), [GERMANY](), [SPAIN](), [MEXICO]()
+**[UK](https://royalsociety.org/topics-policy/projects/machine-learning/)**,
+[China](http://mldm.ict.ac.cn/MLDM/Home.html),
+[USA](https://www.cs.utexas.edu/~ml/),
+[GERMANY](), [SPAIN](), [MEXICO]()
+
 - [ ] Review [the hottest machine learning startups in the UK](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/)
 
 # EXTRA
