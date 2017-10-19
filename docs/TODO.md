@@ -1,6 +1,10 @@
 TODO List
 ---
 
+
+
+
+
 # PRIORITY
 
 - [ ] Create a gmail account so as to have a contact email for anyone who might be
@@ -17,7 +21,7 @@ interested in Machine Learning for Mexico. **Can anyone help with this one?**
 - [ ] Review what other research groups are doing in the area of Machine Learning and put it into a post.
 The review can consider, for the time being, the following aspects: number of research groups and number of members, data (availability, type of data),
 algorithms and frameworks. A table would be nice to present such review:
-**[UK](https://royalsociety.org/topics-policy/projects/machine-learning/)**,
+**[UK](https://royalsociety.org/topics-policy/projects/machine-learning/)**w,
 [China](http://mldm.ict.ac.cn/MLDM/Home.html),
 [USA](https://www.cs.utexas.edu/~ml/),
 [GERMANY](), [SPAIN](), [MEXICO]()
@@ -25,5 +29,29 @@ algorithms and frameworks. A table would be nice to present such review:
 - [ ] Review [the hottest machine learning startups in the UK](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/)
 
 # EXTRA
+
+- [ ]
+
+
+
+# Give a further review for the following references for applications:
+
+- [ ] [Machine Learning for Healthcare](http://mucmd.org/)
+- [ ] [Machine Learning for Healthcare and Life Sciences](https://www.research.ibm.com/haifa/dept/vst/mldm.shtml)
+- [ ] [8 Ways Machine Learning Will Improve Education](http://www.gettingsmart.com/2015/11/8-ways-machine-learning-will-improve-education/)
+- [ ] [Five levels of AI in public service](https://www.oxfordinsights.com/insights/2017/7/12/five-levels-of-ai-in-public-service)
+- [ ] [Three Ways Machine Learning Will Disrupt Transportation](http://www.mccormick.northwestern.edu/news/articles/2016/10/three-ways-machine-learning-will-disrupt-transportation.html)
+- [ ] [[Machine-learning promises to shake up large swathes of finance](https://www.economist.com/news/finance-and-economics/21722685-fields-trading-credit-assessment-fraud-prevention-machine-learning)
+](https://www.economist.com/news/finance-and-economics/21722685-fields-trading-credit-assessment-fraud-prevention-machine-learning)
+- [ ] [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
+
+
+
+
+
+
+
+
+- [ ]
 
 - [ ]
