@@ -1,4 +1,4 @@
 name: Mexican Machine for Mexico
 description: Horizons template for Jekyll
 paginate: 10
-baseurl: '/webpage'
+baseurl: '/website'
