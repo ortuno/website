@@ -1,4 +1,8 @@
 
+# NOVEMBER 2017
+
+CHANGING "https://mexicanmachinelearninggroup.github.io/webpage/"  to "https://ML4MX.github.io/website"
+
 
 # 14th September 2017
 
@@ -24,8 +28,6 @@ modified:   docs/README.md
 modified:   docs/TODO.md
 ```
 
-
-[@mxochicale](https://github.com/mxochicale)
 
 
 

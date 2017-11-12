@@ -1,8 +1,6 @@
-Machine Learning For Mexico [#ML4MX]
+[GitHub Repository](https://github.com/MexicanMachineLearningGroup/webpage) for the [website](https://mexicanmachinelearninggroup.github.io/webpage/) of Machine Learning For Mexico [#ML4MX]
 ---
 
-[WebSite](https://mexicanmachinelearninggroup.github.io/webpage/)
-
 The main path for [Documents](https://github.com/MexicanMachineLearningGroup/webpage/tree/master/docs)
-where you can find a todo list and some general messages regarding the building
-of this website.
+where you can find a TODO list and some general updates and messages about the
+construction of the website.
