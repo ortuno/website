@@ -9,7 +9,7 @@ Tuning the Website
 background: #333333 url("../images/picDL.jpg") no-repeat;
 ```
 
-* to set up another message in the main page, go to ~/_ layouts/landing.html (LINE 21)
+* to set up the message in the main page, go to ~/_ layouts/landing.html (LINE 21)
 ```
 <span class="byline">; ... </span>
 ```

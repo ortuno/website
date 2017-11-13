@@ -1,7 +1,30 @@
 
 # NOVEMBER 2017
 
-CHANGING "https://mexicanmachinelearninggroup.github.io/webpage/"  to "https://ML4MX.github.io/website"
+
+- [X] Giving meaningful html file names and testing the news blog sites (13 November 2017)
+```
+modified:   README.md
+	modified:   _includes/nav.html
+	modified:   _layouts/landing.html
+	modified:   blog/index.html
+	modified:   docs/TODO.md
+	modified:   docs/UPDATES.md
+	modified:   docs/WEBSITE.md
+	modified:   index.html
+	deleted:    left-sidebar.html
+	deleted:    no-sidebar.html
+	deleted:    right-sidebar.html
+
+	_includes/news.html
+	contactus.html
+	members.html
+	news/
+	projects.html
+
+```
+
+- [X] CHANGING "https://mexicanmachinelearninggroup.github.io/webpage/"  to "https://ML4MX.github.io/website" (12 November 2017)
 
 
 # 14th September 2017
