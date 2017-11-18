@@ -6,8 +6,9 @@ TODO List
 - [ ] For the members site, this is a good example of the use of the members [CDI.ponentes](https://www.ciudaddelasideas.com/ponentes.php?ayo=2017)
 - [ ] Create a release or version list for the webpage
 - [ ] Create a bilingual webpage
-- [ ] Create a gmail account so as to have a contact email for anyone who might be
+- [X] Create a gmail account so as to have a contact email for anyone who might be
 interested in Machine Learning for Mexico. **Can anyone help with this one?**
+Done! is contact.ml4mx@gmail.com
 
 # FOR THE CONTENT
 
