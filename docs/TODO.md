@@ -1,14 +1,18 @@
 TODO List
 ---
 
+- [ ] Organise the TODO List
+
 # FOR THE CONTENT
 
 - [ ] Create a post in the blog site about the use of GitHub using the post-submission
 - [ ] Create demo projects and add projects to the website using the projects-submission
+- [ ] Review the use of English Language 
 
 # FOR THE WEBSITE
 
-- [ ] Create path for project site ()
+- [ ] The news tab is not working, make the same as in the blog
+- [ ] Create path for project posts
 - [ ] Create a release or version list for the webpage
 - [ ] Create a bilingual webpage
 
