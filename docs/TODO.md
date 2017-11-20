@@ -1,18 +1,22 @@
 TODO List
 ---
 
-# FOR THE WEBSITE
-
-- [ ] For the members site, this is a good example of the use of the members [CDI.ponentes](https://www.ciudaddelasideas.com/ponentes.php?ayo=2017)
-- [ ] Create a release or version list for the webpage
-- [ ] Create a bilingual webpage
-- [ ] Create a gmail account so as to have a contact email for anyone who might be
-interested in Machine Learning for Mexico. **Can anyone help with this one?**
-
 # FOR THE CONTENT
 
-- [ ] Create demo projects and add projects to the website
-- [ ] Tutorial for the use of GitHub
+- [ ] Create a post in the blog site about the use of GitHub using the post-submission
+- [ ] Create demo projects and add projects to the website using the projects-submission
+
+# FOR THE WEBSITE
+
+
+- [ ] Create path for project site ()
+- [ ] Create a release or version list for the webpage
+- [ ] Create a gmail account so as to have a contact email for anyone who might be
+interested in Machine Learning for Mexico. **Can anyone help with this one?**
+- [ ] Create a bilingual webpage
+- [ ] For the members site, this is a good example of the use of the members [CDI.ponentes](https://www.ciudaddelasideas.com/ponentes.php?ayo=2017)
+- [X] Create a data base for the founder member and add it to the website (Oct 19, 2017)
+- [X] Create path for news site (November 2017)
 
 ## Review for the following references for applications in ML:
 
@@ -26,10 +30,10 @@ interested in Machine Learning for Mexico. **Can anyone help with this one?**
 - [ ] [the hottest machine learning startups in the UK](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/)
 
 
+- [ ] [Open Data for Africa](http://dataportal.opendataforafrica.org/)
+
+
+
 # EXTRAS
 - [ ]
 - [ ]
-
-
-# DONE
-- [X] Create a data base for the founder member and add it to the website.
