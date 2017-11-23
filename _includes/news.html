@@ -8,6 +8,7 @@
 						</header>
 						<div class="row">
 						{% for post in site.posts offset: 0 limit: 2 %}
+						{% if news == 'news' %}
 							<div class="6u">
 								<section class="box">
 									<a href="#" class="image featured"><img src="{{ site.baseurl }}{{ post.featured }}" alt="" /></a>
@@ -24,6 +25,7 @@
 									</footer>
 								</section>
 							</div>
+							{% endif %}
 						{% endfor %}
 						</div>
 					</section>
