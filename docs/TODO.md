@@ -1,7 +1,7 @@
 TODO List
 ---
 
-- [ ] Organise the TODO List
+- [ ] Organise the TODO List before the main release
 
 # FOR THE CONTENT
 
@@ -15,10 +15,17 @@ members of ML4MX which is presented in [the members in ReScience](https://rescie
 
 - [ ] Use the same size figures on the Mission, Vision and Objects and update the images
 using more colourful and representative images.
-- [ ] The news tab is not working, make the same as in the blog. For which, the
+- [ ] The news tab is not working, make the same as in the blog.
+
+For which, the
 following
 [solution](https://reachtarunhere.github.io/2016/01/06/multiple-blogs-on-single-jekyll-instance/)
 was implemented. Specifically, news is considered as the secondary blog.
+**RESULT** This posts all what is inside the path " posts", then this modification was added:
+"{% if news == 'news' %} at  <h2>BaseURL/News/index.html"
+
+
+
 This is another possible recommended solution [multiple-blogs-in-single-jekyll-website](https://stackoverflow.com/questions/14560687/multiple-blogs-in-single-jekyll-website)
 
 - [ ] Create path for project posts
