@@ -13,7 +13,7 @@ layout: main
 						<span class="byline">Recent News</span>
 					</header>
 					<ul class="style">
-						{% for post in site.posts offset: 0 limit: 4 %}
+						{% for post in site.categories.news offset: 0 limit: 4 %}
 						{% if news == 'news' %}
 						<li>
 							<a href="{{ site.baseurl }}{{ new.url }}"><h2>{{ post.title }}</h2></a>

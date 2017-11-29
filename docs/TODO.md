@@ -1,7 +1,6 @@
 TODO List
 ---
 
-- [ ] Organise the TODO List before the main release
 
 # FOR THE CONTENT
 
@@ -22,25 +21,25 @@ following
 [solution](https://reachtarunhere.github.io/2016/01/06/multiple-blogs-on-single-jekyll-instance/)
 was implemented. Specifically, news is considered as the secondary blog.
 **RESULT** This posts all what is inside the path " posts", then this modification was added:
-"{% if news == 'news' %} at  <h2>BaseURL/News/index.html"
+```
+{% if news == 'news' %} at  <h2>BaseURL/News/index.html
+```
 
-
-
-This is another possible recommended solution [multiple-blogs-in-single-jekyll-website](https://stackoverflow.com/questions/14560687/multiple-blogs-in-single-jekyll-website)
+- [ ] TRYING: This is another possible recommended solution [multiple-blogs-in-single-jekyll-website](https://stackoverflow.com/questions/14560687/multiple-blogs-in-single-jekyll-website)
 
 - [ ] Create path for project posts
 - [ ] Create a release or version list for the webpage
 - [ ] Create a bilingual webpage
 
-- [ ] Create path for references and papers to submit the following ones
-
-
-[What is the potential of machine learning over the next 5-10 years? And how can we develop this technology in a way that benefits everyone? ]
-(https://royalsociety.org/topics-policy/projects/machine-learning/)
-[ref](https://twitter.com/royalsociety/status/858395767941328897)
 
 
 
+# EXTRA
+
+- [ ] Following the [White Papers](http://hamlyn.doc.ic.ac.uk/uk-ras/white-papers),
+it is suggested to create white papers for different projects of the use of Machine
+Learning in Mexico. The following references present some examples of the applications of Machine Learning which can be incorporated in the white papers.
+- [What is the potential of machine learning over the next 5-10 years? And how can we develop this technology in a way that benefits everyone?](https://royalsociety.org/topics-policy/projects/machine-learning/). *  [source](https://twitter.com/royalsociety/status/858395767941328897)
 - [Machine Learning for Healthcare](http://mucmd.org/)
 - [Machine Learning for Healthcare and Life Sciences](https://www.research.ibm.com/haifa/dept/vst/mldm.shtml)
 - [8 Ways Machine Learning Will Improve Education](http://www.gettingsmart.com/2015/11/8-ways-machine-learning-will-improve-education/)
@@ -53,11 +52,9 @@ This is another possible recommended solution [multiple-blogs-in-single-jekyll-w
 
 
 
+
 # DONE
-- [X] Create a gmail account so as to have a contact email for anyone who might be
+
+- [x] Create a gmail account so as to have a contact email for anyone who might be
 interested in Machine Learning for Mexico. Can anyone help with this one?
-
-contact.ml4mx@gmail.com
-
-- [ ]
-- [ ]
+   _contact.ML4MX@gmail.com_ Thank you very much @ekhar666

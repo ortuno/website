@@ -2,6 +2,33 @@
 # NOVEMBER 2017
 
 
+Dear All,
+
+https://rescience.github.io/board/
+
+I require that the current and future members of the cluster provide the following
+information:
+```
+[NAME SURNAME](https://github.com/USERNAME)
+AREA OF RESEARCH 1, AREA OF RESEARCH 2, AREA OF RESEARCH 3 -- PROGRAM LANGUAGE 1, PROGRAM LANGUAGE 2 , PROGRAM LANGUAGE 3
+RESEARCH CENTRE
+ADDRESS
+EMAIL:
+```
+
+Example:
+```
+Nicolas P. Rougier
+Computational Neuroscience, Computer Science - Python, C/C++
+ORCID: 0000-0002-6972-589X
+Inria Bordeaux Sud-Ouest
+200 Avenue de la vieille tour
+33405 Talence cedex, France
+Email: nicolas dot rougier at inria dot fr
+```
+
+
+
 - [X] Giving meaningful html file names and testing the news blog sites (13 November 2017)
 ```
 modified:   README.md
