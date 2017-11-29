@@ -14,13 +14,11 @@ layout: main
 					</header>
 					<ul class="style">
 						{% for post in site.categories.news offset: 0 limit: 4 %}
-						{% if news == 'news' %}
 						<li>
 							<a href="{{ site.baseurl }}{{ new.url }}"><h2>{{ post.title }}</h2></a>
 							<img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
 							{{ post.excerpt }}
 						</li>
-						{% endif %}
 						{% endfor %}
 					</ul>
 				</div>
