@@ -21,8 +21,13 @@ following
 [solution](https://reachtarunhere.github.io/2016/01/06/multiple-blogs-on-single-jekyll-instance/)
 was implemented. Specifically, news is considered as the secondary blog.
 **RESULT** This posts all what is inside the path " posts", then this modification was added:
+
 ```
 {% if news == 'news' %} at  <h2>BaseURL/News/index.html
+.
+.
+.
+{% endif %}
 ```
 
 - [ ] TRYING: This is another possible recommended solution [multiple-blogs-in-single-jekyll-website](https://stackoverflow.com/questions/14560687/multiple-blogs-in-single-jekyll-website)
