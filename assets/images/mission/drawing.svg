@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="450"
+   height="450"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="309.30645"
-     inkscape:cy="628.89688"
+     inkscape:cx="318.44895"
+     inkscape:cy="213.78912"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,32 +43,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-602.36218)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.72839505000000004;fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.72839505000000004;fill:#0055d4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path2985"
        sodipodi:cx="272.85715"
        sodipodi:cy="342.36218"
        sodipodi:rx="147.14285"
        sodipodi:ry="147.14285"
        d="m 420,342.36218 a 147.14285,147.14285 0 1 1 -294.28571,0 147.14285,147.14285 0 1 1 294.28571,0 z"
-       transform="translate(148.49242,-66.670063)"
+       transform="matrix(0.73914291,0,0,0.73914291,30.261008,509.83814)"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="348.50262"
-       y="177.57007"
+       style="font-size:29.56571579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="178.09714"
+       y="690.36652"
        id="text2987"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
@@ -76,18 +77,18 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2989"
-         x="348.50262"
-         y="177.57007"
-         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">ACADEMIA</tspan></text>
+         x="178.09714"
+         y="690.36652"
+         style="font-size:17.73942947px;font-weight:bold;-inkscape-font-specification:Sans Bold">ACADEMIA</tspan></text>
     <path
-       transform="translate(50.507626,33.335043)"
+       transform="matrix(0.73914291,0,0,0.73914291,-42.163759,583.7562)"
        d="m 420,342.36218 a 147.14285,147.14285 0 1 1 -294.28571,0 147.14285,147.14285 0 1 1 294.28571,0 z"
        sodipodi:ry="147.14285"
        sodipodi:rx="147.14285"
        sodipodi:cy="342.36218"
        sodipodi:cx="272.85715"
        id="path2991"
-       style="opacity:0.72839505000000004;fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.72839505000000004;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
@@ -95,27 +96,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text2993"
-       y="384.65137"
-       x="121.2183"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       y="843.42914"
+       x="10.101538"
+       style="font-size:29.56571579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         y="384.65137"
-         x="121.2183"
+         y="843.42914"
+         x="10.101538"
          id="tspan2995"
          sodipodi:role="line"
-         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">GOVERNMENT</tspan></text>
+         style="font-size:17.73942947px;font-weight:bold;-inkscape-font-specification:Sans Bold">GOVERNMENT</tspan></text>
     <path
-       transform="translate(162.63456,138.39091)"
+       transform="matrix(0.73914291,0,0,0.73914291,40.714069,661.4075)"
        d="m 420,342.36218 a 147.14285,147.14285 0 1 1 -294.28571,0 147.14285,147.14285 0 1 1 294.28571,0 z"
        sodipodi:ry="147.14285"
        sodipodi:rx="147.14285"
        sodipodi:cy="342.36218"
        sodipodi:cx="272.85715"
        id="path3001"
-       style="opacity:0.72839505000000004;fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.72839505000000004;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
@@ -123,36 +124,36 @@
     <text
        sodipodi:linespacing="125%"
        id="text2997"
-       y="581.6311"
-       x="362.64471"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       y="989.02533"
+       x="188.55016"
+       style="font-size:29.56571579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="581.6311"
-         x="362.64471"
+         style="font-size:17.73942947px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="989.02533"
+         x="188.55016"
          id="tspan2999"
          sodipodi:role="line">INDUSTRY</tspan></text>
     <path
        sodipodi:type="arc"
-       style="opacity:0.72839505000000004;fill:#808000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.72839505000000004;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3007"
        sodipodi:cx="272.85715"
        sodipodi:cy="342.36218"
        sodipodi:rx="147.14285"
        sodipodi:ry="147.14285"
        d="m 420,342.36218 a 147.14285,147.14285 0 1 1 -294.28571,0 147.14285,147.14285 0 1 1 294.28571,0 z"
-       transform="translate(264.65996,29.294432)"
+       transform="matrix(0.73914291,0,0,0.73914291,116.12542,580.76961)"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="566.69556"
-       y="383.6412"
+       style="font-size:29.56571579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="339.37286"
+       y="842.6825"
        id="text3003"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
@@ -160,23 +161,23 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3005"
-         x="566.69556"
-         y="383.6412"
-         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">SOCIETY</tspan></text>
+         x="339.37286"
+         y="842.6825"
+         style="font-size:17.73942947px;font-weight:bold;-inkscape-font-specification:Sans Bold">SOCIETY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="334.3605"
-       y="392.7326"
+       style="font-size:29.56571579px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="167.64407"
+       y="849.40234"
        id="text3009"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/map479-admin/mxochicale/github/webpage/assets/images/mission/v00.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         style="font-size:48px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         style="font-size:35.47885895px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          sodipodi:role="line"
          id="tspan3011"
-         x="334.3605"
-         y="392.7326">ML4MX</tspan></text>
+         x="167.64407"
+         y="849.40234">ML4MX</tspan></text>
   </g>
 </svg>
