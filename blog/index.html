@@ -9,11 +9,11 @@ layout: main
 			<section>
 				<div class="10u -1u">
 					<header class="major">
-						<h2>Blog</h2>
+						<h2>BaseURL/blog/index.html</h2>
 						<span class="byline">Blog Posts</span>
 					</header>
 					<ul class="style">
-						{% for post in site.posts offset: 0 limit: 4 %}
+						{% for post in site.categories.blog offset: 0 limit: 4 %}
 						<li>
 							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
 							<img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
