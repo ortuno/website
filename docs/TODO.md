@@ -2,7 +2,7 @@ TODO List
 ---
 
 
-# FOR THE CONTENT
+# CONTENT
 
 - [ ] Create a post in the blog site about the use of GitHub [Source1](https://github.com/oliviaguest/neuroplausible/blob/master/_posts/2017-11-5-github.md),
 [Source2](http://neuroplausible.com/github)
@@ -13,7 +13,7 @@ template
 members of ML4MX as used in [the members in ReScience](https://rescience.github.io/board/)
 - [ ] Review the use of English Language in the website.
 
-# FOR THE WEBSITE
+# WEBSITE
 - [ ] Create a release or version list for the website.  _30November2017_
 - [ ] Create path for project posts.  _30November2017_
 - [ ] Use the same size figures on the Mission, Vision and Objects and update the images
@@ -69,7 +69,7 @@ the problem of having  blog and news posts in the website were solved.
 _29November2017_
 
 
-
 - [x] Create a gmail account so as to have a contact email for anyone who might be
 interested in Machine Learning for Mexico. Can anyone help with this one?
-   _contact.ML4MX@gmail.com_ Thank you very much @ekhar666
+
+   _contact.ML4MX@gmail.com_  [commit](https://github.com/ML4MX/website/commit/9d9b21aec782b3a3f27d39402060c0c77ac8ccd0#diff-e02f7b5eb279990ed19ab57010bb36f6) by [@ekhar666](https://github.com/ekhar666) on _18November2017_

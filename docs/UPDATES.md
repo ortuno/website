@@ -1,18 +1,18 @@
 
 # NOVEMBER 2017
 
-## RELEASE ML4MX WEBSITE V0.1 
+## RELEASE ML4MX WEBSITE V0.1
 Dear All,
 
 
 These are the major changes in the website:
 https://rescience.github.io/board/
 
-
+*
+*
+*
 
 Similarly, these are some requirements for you:
-
-
 It is required that the current and future members of the cluster
 of Machine Learning for Mexico provide the following information:
 ```
