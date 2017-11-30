@@ -4,39 +4,23 @@ TODO List
 
 # FOR THE CONTENT
 
-- [ ] Create a post in the blog site about the use of GitHub using the post-submission
-- [ ] Create demo projects and add projects to the website using the projects-submission
-- [ ] Review the use of English Language
+- [ ] Create a post in the blog site about the use of GitHub [Source1](https://github.com/oliviaguest/neuroplausible/blob/master/_posts/2017-11-5-github.md),
+[Source2](http://neuroplausible.com/github)
+ using [post-submission](https://github.com/ML4MX/blogpost-submission) template.
+- [ ] Add demo projects to the website using [projects-submission](https://github.com/ML4MX/project-submission)
+template
 - [ ] Incorporate the format for the
-members of ML4MX which is presented in [the members in ReScience](https://rescience.github.io/board/)
+members of ML4MX as used in [the members in ReScience](https://rescience.github.io/board/)
+- [ ] Review the use of English Language in the website.
 
 # FOR THE WEBSITE
-
+- [ ] Create a release or version list for the website.  _30November2017_
+- [ ] Create path for project posts.  _30November2017_
 - [ ] Use the same size figures on the Mission, Vision and Objects and update the images
-using more colourful and representative images.
-- [ ] The news tab is not working, make the same as in the blog.
+using more colourful and representative images.  _30November2017_
 
-For which, the
-following
-[solution](https://reachtarunhere.github.io/2016/01/06/multiple-blogs-on-single-jekyll-instance/)
-was implemented. Specifically, news is considered as the secondary blog.
-**RESULT** This posts all what is inside the path " posts", then this modification was added:
-
-```
-{% if news == 'news' %} at  <h2>BaseURL/News/index.html
-.
-.
-.
-{% endif %}
-```
-
-- [ ] TRYING: This is another possible recommended solution [multiple-blogs-in-single-jekyll-website](https://stackoverflow.com/questions/14560687/multiple-blogs-in-single-jekyll-website)
-
-- [ ] Create path for project posts
-- [ ] Create a release or version list for the webpage
 - [ ] Create a bilingual webpage
-
-
+- [ ] Create a twitter account with a username ML4MX.  The twitter account does not exist on _29November2017_
 
 
 # EXTRA
@@ -59,6 +43,32 @@ Learning in Mexico. The following references present some examples of the applic
 
 
 # DONE
+
+
+
+- [x] The news tab is not working, make the same as in the blog.
+
+For which, the
+following
+[solution](https://reachtarunhere.github.io/2016/01/06/multiple-blogs-on-single-jekyll-instance/)
+was implemented. Specifically, news is considered as the secondary blog.
+**RESULT** This posts all what is inside the path " posts", then this modification was added:
+
+```
+{% if news == 'news' %} at  <h2>BaseURL/News/index.html
+.
+.
+.
+{% endif %}
+```
+_29November2017_
+
+
+- [x] THEN, with this [solution](https://stackoverflow.com/questions/14560687/multiple-blogs-in-single-jekyll-website/42196173#42196173),
+the problem of having  blog and news posts in the website were solved.
+_29November2017_
+
+
 
 - [x] Create a gmail account so as to have a contact email for anyone who might be
 interested in Machine Learning for Mexico. Can anyone help with this one?

@@ -1,26 +1,34 @@
 
 # NOVEMBER 2017
 
-
+## RELEASE ML4MX WEBSITE V0.1 
 Dear All,
 
+
+These are the major changes in the website:
 https://rescience.github.io/board/
 
-I require that the current and future members of the cluster provide the following
-information:
+
+
+Similarly, these are some requirements for you:
+
+
+It is required that the current and future members of the cluster
+of Machine Learning for Mexico provide the following information:
 ```
 [NAME SURNAME](https://github.com/USERNAME)
 AREA OF RESEARCH 1, AREA OF RESEARCH 2, AREA OF RESEARCH 3 -- PROGRAM LANGUAGE 1, PROGRAM LANGUAGE 2 , PROGRAM LANGUAGE 3
+ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
 RESEARCH CENTRE
-ADDRESS
+ADDRESS:
 EMAIL:
 ```
 
 Example:
 ```
-Nicolas P. Rougier
+[Nicolas P. Rougier](https://github.com/rougier)
 Computational Neuroscience, Computer Science - Python, C/C++
-ORCID: 0000-0002-6972-589X
+ORCID: [0000-0002-6972-589X](https://orcid.org/0000-0002-6972-589X)
 Inria Bordeaux Sud-Ouest
 200 Avenue de la vieille tour
 33405 Talence cedex, France
@@ -28,6 +36,22 @@ Email: nicolas dot rougier at inria dot fr
 ```
 
 
+
+Feel free add your comments as issues on [github](https://github.com/ML4MX/website/issues)
+or even better to fork the page and commit your changes.
+
+The [TODO List](https://github.com/MexicanMachineLearningGroup/webpage/blob/master/docs/TODO.md)
+will be constantly updated.
+
+Regards,
+[@mxochicale](https://github.com/mxochicale)
+
+
+
+
+
+
+## 13 November 2017
 
 - [X] Giving meaningful html file names and testing the news blog sites (13 November 2017)
 ```
@@ -54,7 +78,7 @@ modified:   README.md
 - [X] CHANGING "https://mexicanmachinelearninggroup.github.io/webpage/"  to "https://ML4MX.github.io/website" (12 November 2017)
 
 
-# 14th September 2017
+## 14th September 2017
 
 
 The [TODO List](https://github.com/MexicanMachineLearningGroup/webpage/blob/master/docs/TODO.md)
@@ -82,7 +106,7 @@ modified:   docs/TODO.md
 
 
 
-# 23 August 2017
+## 23 August 2017
 
 Dear All,
 
