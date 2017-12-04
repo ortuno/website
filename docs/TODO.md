@@ -11,7 +11,7 @@ TODO List
 
 # TODO LIST
 
-- [ ] Update areas of research and programming language experiences in profiles of the members. 
+- [ ] Update areas of research and programming language experiences in profiles of the members.
 
 - [ ] Create a post in the blog site about the use of GitHub [Source1](https://github.com/oliviaguest/neuroplausible/blob/master/_posts/2017-11-5-github.md),
 [Source2](http://neuroplausible.com/github)
@@ -81,7 +81,7 @@ using more colourful and representative images.  _(CREATED: 30November2017; SORT
 
 - [x] Incorporate the format of[ [members in ReScience] ](https://rescience.github.io/board/)
 for the members of ML4MX as used in
-_(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
+_(CREATED: 29November2017; SORTED: )_ (commit(s): [059943b](https://github.com/ML4MX/website/commit/059943b3c8d139915dff8153efd1ba28bdb55028) )
 
 
 
