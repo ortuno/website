@@ -10,7 +10,8 @@ Dear All,
 These are the major changes in the website:
 https://rescience.github.io/board/
 
-*
+* Sites for [News](https://ml4mx.github.io/website/news/index.html), [Projects](https://ml4mx.github.io/website/projects/index.html) and [Blog](https://ml4mx.github.io/website/blog/index.html) has been setting up.
+
 *
 *
 
@@ -42,7 +43,7 @@ Email: nicolas dot rougier at inria dot fr
 Feel free add your comments as issues on [github](https://github.com/ML4MX/website/issues)
 or even better to fork the page and commit your changes.
 
-The [TODO List](https://github.com/MexicanMachineLearningGroup/webpage/blob/master/docs/TODO.md)
+The [TODO List](https://github.com/ML4MX/website/blob/master/docs/TODO.md)
 will be constantly updated.
 
 Regards,
