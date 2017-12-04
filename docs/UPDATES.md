@@ -10,12 +10,11 @@ Dear All,
 These are the major changes in the website:
 https://rescience.github.io/board/
 
-* Sites with post templates for [News](https://ml4mx.github.io/website/news/index.html), [Projects](https://ml4mx.github.io/website/projects/index.html) and [Blog](https://ml4mx.github.io/website/blog/index.html) have been setting up (commits: [c00](https://github.com/ML4MX/website/commit/2012eea65e0817190b8aba61c60d99ef0b98a29d), [c02](https://github.com/ML4MX/website/commit/107fb9938c18667d99a17d622fbbf7d4a8b733b5),[c03](https://github.com/ML4MX/website/commit/1f7588042deb937ccd472300131fb7ca559e4afc),[c04](https://github.com/ML4MX/website/commit/0dd18bae03bacb1db82bee276b976a4dfd5208fd) ).
+* Sites with post templates for [News](https://ml4mx.github.io/website/news/index.html), [Projects](https://ml4mx.github.io/website/projects/index.html) and [Blog](https://ml4mx.github.io/website/blog/index.html) have been setting up (commits: [2012eea](https://github.com/ML4MX/website/commit/2012eea65e0817190b8aba61c60d99ef0b98a29d), [107fb99](https://github.com/ML4MX/website/commit/107fb9938c18667d99a17d622fbbf7d4a8b733b5),[1f75880](https://github.com/ML4MX/website/commit/1f7588042deb937ccd472300131fb7ca559e4afc),[0dd18ba](https://github.com/ML4MX/website/commit/0dd18bae03bacb1db82bee276b976a4dfd5208fd) ).
 
-
-
-* Figures for the Mission, Vision and Objects were updated
- (commit(s): []() )
+* Figures for the  [Mission](https://github.com/ML4MX/website/tree/master/assets/images/mission),
+[Vision](https://github.com/ML4MX/website/tree/master/assets/images/vision) and [Objects](https://github.com/ML4MX/website/tree/master/assets/images/objects) were updated
+ (commit(s): [b6a4df4](https://github.com/ML4MX/website/commit/b6a4df40a32abeb2da85812270d474d532533169) )
 
 
 *

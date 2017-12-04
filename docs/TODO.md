@@ -9,7 +9,9 @@ TODO List
 - [ ] Activity Description.  _(CREATED: DayMonthYear; SORTED: DayMonthYear)_ (commit(s): []() )
 ```
 
-# CONTENT
+# TODO LIST
+
+- [ ] Update areas of research and programming language experiences in profiles of the members. 
 
 - [ ] Create a post in the blog site about the use of GitHub [Source1](https://github.com/oliviaguest/neuroplausible/blob/master/_posts/2017-11-5-github.md),
 [Source2](http://neuroplausible.com/github)
@@ -20,17 +22,12 @@ TODO List
 template
 _(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
 
-- [ ] Incorporate the format of[ [members in ReScience] ](https://rescience.github.io/board/)
-for the members of ML4MX as used in
-_(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
 
 - [ ] Create either a google form or a new repository for the section of
 [JOIN US](https://ml4mx.github.io/website/index.html#)
 _(CREATED: 4December2017; SORTED: DayMonthYear)_ (commit(s): []() )
 
 
-
-# WEBSITE
 - [ ] Organise [RELEASES](https://github.com/ML4MX/website/blob/master/docs/RELEASES.md) of the website as [atom does](https://github.com/atom/atom/releases)
   _(CREATED: 4december2017; SORTED: )_ (commit(s): []() )
 
@@ -42,24 +39,6 @@ _(CREATED: 4December2017; SORTED: DayMonthYear)_ (commit(s): []() )
 - [ ] Create a bilingual website. _(CREATED: October2017; SORTED: )_ (commit(s): []() )
 
 - [ ] Create a twitter account with a username ML4MX.  The twitter account does not exist on _(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
-
-
-# EXTRA
-
-- [ ] Following the [White Papers](http://hamlyn.doc.ic.ac.uk/uk-ras/white-papers),
-it is suggested to create white papers for different projects of the use of Machine
-Learning in Mexico. The following references present some examples of the applications of Machine Learning which can be incorporated in the white papers.
-- [What is the potential of machine learning over the next 5-10 years? And how can we develop this technology in a way that benefits everyone?](https://royalsociety.org/topics-policy/projects/machine-learning/). *  [source](https://twitter.com/royalsociety/status/858395767941328897)
-- [Machine Learning for Healthcare](http://mucmd.org/)
-- [Machine Learning for Healthcare and Life Sciences](https://www.research.ibm.com/haifa/dept/vst/mldm.shtml)
-- [8 Ways Machine Learning Will Improve Education](http://www.gettingsmart.com/2015/11/8-ways-machine-learning-will-improve-education/)
-- [Five levels of AI in public service](https://www.oxfordinsights.com/insights/2017/7/12/five-levels-of-ai-in-public-service)
-- [Three Ways Machine Learning Will Disrupt Transportation](http://www.mccormick.northwestern.edu/news/articles/2016/10/three-ways-machine-learning-will-disrupt-transportation.html)
-- [Machine-learning promises to shake up large swathes of finance](https://www.economist.com/news/finance-and-economics/21722685-fields-trading-credit-assessment-fraud-prevention-machine-learning)
-- [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
-- [the hottest machine learning startups in the UK](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/)
-- [Open Data for Africa](http://dataportal.opendataforafrica.org/)
-
 
 
 
@@ -94,7 +73,30 @@ interested in Machine Learning for Mexico. Can anyone help with this one?
 - [x] Create path for project posts.  _(CREATED: 30November2017; SORTED: 4December2017 )_
 
 - [x] Create a release or version list for the website. [RELEASES](https://github.com/ML4MX/website/blob/master/docs/RELEASES.md)
-  _(CREATED: 30November2017; SORTED:4december2017 )_ (commit: []() )
+  _(CREATED: 30November2017; SORTED:4december2017 )_ (commit: [b6a4df4](https://github.com/ML4MX/website/commit/b6a4df40a32abeb2da85812270d474d532533169) )
 
 - [x] Use the same size figures on the Mission, Vision and Objects and update the images
-using more colourful and representative images.  _(CREATED: 30November2017; SORTED: )_ (commit(s): []() )
+using more colourful and representative images.  _(CREATED: 30November2017; SORTED: )_ (commit(s): [b6a4df4](https://github.com/ML4MX/website/commit/b6a4df40a32abeb2da85812270d474d532533169) )
+
+
+- [x] Incorporate the format of[ [members in ReScience] ](https://rescience.github.io/board/)
+for the members of ML4MX as used in
+_(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
+
+
+
+# EXTRA LIST
+
+- [ ] Following the [White Papers](http://hamlyn.doc.ic.ac.uk/uk-ras/white-papers),
+it is suggested to create white papers for different projects of the use of Machine
+Learning in Mexico. The following references present some examples of the applications of Machine Learning which can be incorporated in the white papers.
+- [What is the potential of machine learning over the next 5-10 years? And how can we develop this technology in a way that benefits everyone?](https://royalsociety.org/topics-policy/projects/machine-learning/). *  [source](https://twitter.com/royalsociety/status/858395767941328897)
+- [Machine Learning for Healthcare](http://mucmd.org/)
+- [Machine Learning for Healthcare and Life Sciences](https://www.research.ibm.com/haifa/dept/vst/mldm.shtml)
+- [8 Ways Machine Learning Will Improve Education](http://www.gettingsmart.com/2015/11/8-ways-machine-learning-will-improve-education/)
+- [Five levels of AI in public service](https://www.oxfordinsights.com/insights/2017/7/12/five-levels-of-ai-in-public-service)
+- [Three Ways Machine Learning Will Disrupt Transportation](http://www.mccormick.northwestern.edu/news/articles/2016/10/three-ways-machine-learning-will-disrupt-transportation.html)
+- [Machine-learning promises to shake up large swathes of finance](https://www.economist.com/news/finance-and-economics/21722685-fields-trading-credit-assessment-fraud-prevention-machine-learning)
+- [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
+- [the hottest machine learning startups in the UK](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/)
+- [Open Data for Africa](http://dataportal.opendataforafrica.org/)
