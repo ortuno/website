@@ -1,0 +1,27 @@
+---
+title: Projects
+layout: main
+---
+
+<!-- Main -->
+	<div id="main" class="wrapper style1">
+		<div class="container">
+			<section>
+				<div class="10u -1u">
+					<header class="major">
+						<h2>BaseURL/projects/index.html</h2>
+						<span class="byline">Projects</span>
+					</header>
+					<ul class="style">
+						{% for post in site.categories.projects offset: 0 limit: 4 %}
+						<li>
+							<a href="{{ site.baseurl }}{{ project.url }}"><h2>{{ post.title }}</h2></a>
+							<img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
+							{{ post.excerpt }}
+						</li>
+						{% endfor %}
+					</ul>
+				</div>
+			</section>
+		</div>
+	</div>
