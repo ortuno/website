@@ -17,6 +17,8 @@ TODO List
 [Source3](https://simplystatistics.org/newposts/)
 [Source4](https://github.com/mxochicale/usingGitHub)
 
+- [ ] Collapse the biography of members using [js_collapse](https://www.w3schools.com/bootstrap/bootstrap_ref_js_collapse.asp)
+ _(CREATED: 17Dec2017; SORTED: DayMonthYear)_ (commit(s): []() )
 
  using [post-submission](https://github.com/ML4MX/blogpost-submission) template.
   _(CREATED: 29November2017; SORTED: )_ (commit(s): []() )

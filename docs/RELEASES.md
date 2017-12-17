@@ -4,8 +4,12 @@
 
 * Members has been updated, however many information still is missing.  
   From now now, please push a pull request to update your biography, or an issue.
+  (commits: [59bb0](https://github.com/ML4MX/website/commit/b3212bb6308c22e9a0dc97742636aad1e8e59bb0),[5eb4d](https://github.com/ML4MX/website/commit/87419e64b06333769239627ab45755a67d35eb4d), [8c709](https://github.com/ML4MX/website/commit/75515c1adf07ac6dfcd052c9f624c0a0f538c709), [964ea](https://github.com/ML4MX/website/commit/2539aff5ee383460c1ab81d5ef29945722b964ea), [c419ce](https://github.com/ML4MX/website/commit/61e60e969f5e8f89c3d70107583453deadc419ce)
+  []())
 
-* 
+*
+
+
 
 
 
