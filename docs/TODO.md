@@ -3,47 +3,31 @@ TODO List
 
 #### GENERAL RECOMMENDATIONS
 - Before pushing any update in the website, please carefully review the use of English Language.
-- For new points in this list, use this template:
-
-```
-- [ ] Activity Description.  _(CREATED: DayMonthYear; SORTED: DayMonthYear)_ (commit(s): []() )
-```
 
 # TODO LIST
 
-- [ ] Create a post in the blog site about the use of GitHub:
-[Source1](https://github.com/oliviaguest/neuroplausible/blob/master/_posts/2017-11-5-github.md),
-[Source2](http://neuroplausible.com/github)
-[Source3](https://simplystatistics.org/newposts/)
-[Source4](https://github.com/mxochicale/usingGitHub)
-
-- [ ] Collapse the biography of members using [js_collapse](https://www.w3schools.com/bootstrap/bootstrap_ref_js_collapse.asp)
- _(CREATED: 17Dec2017; SORTED: DayMonthYear)_ (commit(s): []() )
-
- using [post-submission](https://github.com/ML4MX/blogpost-submission) template.
-  _(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
-
 - [ ] Add demo projects to the website using [projects-submission](https://github.com/ML4MX/project-submission)
-template
-_(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
-
-
-- [ ] Create either a google form or a new repository for the section of
-[JOIN US](https://ml4mx.github.io/website/index.html#)
-_(CREATED: 4December2017; SORTED: DayMonthYear)_ (commit(s): []() )
+template  
+_(CREATED: 29November2017; SORTED:DayMonthYear )_ (commit(s): []() )
 
 
 - [ ] Organise [RELEASES](https://github.com/ML4MX/website/blob/master/docs/RELEASES.md) of the website as [atom does](https://github.com/atom/atom/releases)
-  _(CREATED: 4december2017; SORTED: )_ (commit(s): []() )
+  _(CREATED: 4december2017; SORTED:DayMonthYear )_ (commit(s): []() )
 
-- [ ] Crate a logo for ML4MX. These are some [images references](https://github.com/ML4MX/website/tree/master/assets/images/logo). _(CREATED: 4 December 2017; SORTED: )_ (commit(s): []() )
+
+- [ ] Collapse the biography of members using [js_collapse](https://www.w3schools.com/bootstrap/bootstrap_ref_js_collapse.asp)
+ _(CREATED: 17Dec2017; SORTED:DayMonthYear)_ (commit(s): []() )
+
+- [ ] Create either a google form or a new repository for the section of
+[JOIN US](https://ml4mx.github.io/website/index.html#)
+_(CREATED: 4December2017; SORTED:DayMonthYear)_ (commit(s): []() )
+
+- [ ] Crate a logo for ML4MX. These are some [images references](https://github.com/ML4MX/website/tree/master/assets/images/logo). _(CREATED: 4 December 2017; SORTED:DayMonthYear )_ (commit(s): []() )
 
 - [ ] Set up a local site for testing and before push any updates.
-[Source1](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), [Source2](https://gist.github.com/jgravois/5e73b56fa7756fd00b89) _(CREATED: 4 December 2017; SORTED: )_ (commit(s): []() )
+[Source1](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), [Source2](https://gist.github.com/jgravois/5e73b56fa7756fd00b89) _(CREATED: 4 December 2017; SORTED:DayMonthYear )_ (commit(s): []() )
 
-- [ ] Create a bilingual website. _(CREATED: October2017; SORTED: )_ (commit(s): []() )
-
-- [ ] Create a twitter account with a username ML4MX.  The twitter account does not exist on _(CREATED: 29November2017; SORTED: )_ (commit(s): []() )
+- [ ] Create a bilingual website. _(CREATED: October2017; SORTED:DayMonthYear )_ (commit(s): []() )
 
 
 
@@ -88,22 +72,21 @@ using more colourful and representative images.  _(CREATED: 30November2017; SORT
 for the members of ML4MX as used in
 _(CREATED: 29November2017; SORTED: )_ (commit(s): [059943b](https://github.com/ML4MX/website/commit/059943b3c8d139915dff8153efd1ba28bdb55028) )
 
-- [x] Update areas of research and programming language experiences in profiles of the members. _(CREATED: DayMonthYear; SORTED: 17Dec2017)_ (commit(s): []() )
+- [x] Update areas of research and programming language experiences in profiles of the members.
+_(CREATED: DayMonthYear; SORTED: 17Dec2017)_ (commit(s): []() )
 
 
+- [x] Create a post in the blog site about the use of GitHub:
+[Source1](https://github.com/oliviaguest/neuroplausible/blob/master/_posts/2017-11-5-github.md)
+[Source2](http://neuroplausible.com/github)
+[Source3](https://simplystatistics.org/newposts/)
+[Source4](https://github.com/mxochicale/usingGitHub)  
+_(CREATED: DayMonthYear; SORTED: 31Dec2017)_ (commit(s): [blog-c1 to blog-c4 on Dec 31, 2017](https://github.com/ML4MX/website/commits/master) )
 
-# EXTRA LIST
+- [x] using [post-submission](https://github.com/ML4MX/blogpost-submission) template.
+_(CREATED: 29November2017; SORTED:31DEC2017 )_ (commit(s): [blog-c1 to blog-c4 on Dec 31, 2017](https://github.com/ML4MX/website/commits/master) )
 
-- [ ] Following the [White Papers](http://hamlyn.doc.ic.ac.uk/uk-ras/white-papers),
-it is suggested to create white papers for different projects of the use of Machine
-Learning in Mexico. The following references present some examples of the applications of Machine Learning which can be incorporated in the white papers.
-- [What is the potential of machine learning over the next 5-10 years? And how can we develop this technology in a way that benefits everyone?](https://royalsociety.org/topics-policy/projects/machine-learning/). *  [source](https://twitter.com/royalsociety/status/858395767941328897)
-- [Machine Learning for Healthcare](http://mucmd.org/)
-- [Machine Learning for Healthcare and Life Sciences](https://www.research.ibm.com/haifa/dept/vst/mldm.shtml)
-- [8 Ways Machine Learning Will Improve Education](http://www.gettingsmart.com/2015/11/8-ways-machine-learning-will-improve-education/)
-- [Five levels of AI in public service](https://www.oxfordinsights.com/insights/2017/7/12/five-levels-of-ai-in-public-service)
-- [Three Ways Machine Learning Will Disrupt Transportation](http://www.mccormick.northwestern.edu/news/articles/2016/10/three-ways-machine-learning-will-disrupt-transportation.html)
-- [Machine-learning promises to shake up large swathes of finance](https://www.economist.com/news/finance-and-economics/21722685-fields-trading-credit-assessment-fraud-prevention-machine-learning)
-- [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
-- [the hottest machine learning startups in the UK](https://www.techworld.com/picture-gallery/startups/uk-ai-startups-watch-hottest-machine-learning-startups-in-uk-3645606/)
-- [Open Data for Africa](http://dataportal.opendataforafrica.org/)
+
+- [x] Create a twitter account with a username ML4MX.  by @ekhar666
+  The twitter account does not exist on     
+  _(CREATED: 29November2017; SORTED: 31DEC2017 )_ (commit(s): []() )
