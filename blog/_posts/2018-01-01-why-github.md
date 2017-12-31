@@ -1,11 +1,9 @@
 ---
-title: Why GitHub and how to use it?
+title: Why GitHub? and How to Use GitHub?
 featured:
 layout: post
 ---
-
 # Introduction
-
 These are some of the basics of version control [GIT](https://git-scm.com/),
 a system to keep track of code, and the use of ([GitHub](https://github.com/))'s
 syntax which providing such services.
