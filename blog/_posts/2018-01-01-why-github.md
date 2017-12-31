@@ -4,11 +4,6 @@ featured:
 layout: post
 ---
 
-Author:
-  - name: Miguel P Xochicale
-  - affiliation: University of Birmingham
-
-
 # Introduction
 
 These are some of the basics of version control [GIT](https://git-scm.com/),
@@ -202,3 +197,10 @@ This is an  interactive tutorial that teach you everything of GitHub in about
 [ [3] O. Guest, Git (and GitHub) Cheat Sheet in blog, Nov 2017](http://neuroplausible.com/github)    
 [ [4] P. Klemm, Use Github for Scientific Writing, July 2016](http://paulklemm.com/blog/2014-07-16-use-github-for-scientific-writing/)    
 [ [5] M Banksm, We need github for academia research, April  2017](http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html)    
+
+
+# Pull Request
+Author:
+  - name: Miguel P Xochicale
+  - affiliation: University of Birmingham
+  - Pull request [repository](https://github.com/ML4MX/blogpost-submission/pull/3)
