@@ -6,6 +6,10 @@ TODO List
 
 # TODO LIST
 
+- [ ] Update [NEWS section](https://ml4mx.github.io/website/news/index.html)  
+_(CREATED: 31Dec2017; SORTED:DayMonthYear )_ (commit(s): []() )
+
+
 - [ ] Add demo projects to the website using [projects-submission](https://github.com/ML4MX/project-submission)
 template  
 _(CREATED: 29November2017; SORTED:DayMonthYear )_ (commit(s): []() )
@@ -32,8 +36,6 @@ _(CREATED: 4December2017; SORTED:DayMonthYear)_ (commit(s): []() )
 
 
 # SORTED LIST
-
-
 
 - [x] The news tab is not working, make the same as in the blog.
 
@@ -87,6 +89,13 @@ _(CREATED: DayMonthYear; SORTED: 31Dec2017)_ (commit(s): [blog-c1 to blog-c4 on 
 _(CREATED: 29November2017; SORTED:31DEC2017 )_ (commit(s): [blog-c1 to blog-c4 on Dec 31, 2017](https://github.com/ML4MX/website/commits/master) )
 
 
-- [x] Create a twitter account with a username ML4MX.  by @ekhar666
-  The twitter account does not exist on     
+- [x] Create a twitter account with a username @ML4MX
+  The twitter account does not exist on  29November2017
   _(CREATED: 29November2017; SORTED: 31DEC2017 )_ (commit(s): []() )
+
+- [x] Create a twitter account with a username @ML4MX
+  The twitter account does not exist on  29November2017
+  _(CREATED: 29November2017; SORTED: 31DEC2017 by [@ekhar666](https://github.com/ekhar666) )_ (commit(s): []() )
+
+- [x] [@ekhar666](https://github.com/ekhar666) also created the [Youtube  Channel](https://www.youtube.com/channel/UC6ulvIuFSBhoSTS2X4ar7LA)  
+_(CREATED:; SORTED: 31DEC2017 by [@ekhar666](https://github.com/ekhar666) )_ (commit(s): []() )
