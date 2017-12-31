@@ -198,7 +198,7 @@ This is an  interactive tutorial that teach you everything of GitHub in about
 
 
 # Pull Request
+
 Author:
-  - name: Miguel P Xochicale
-  - affiliation: University of Birmingham
-  - Pull request [repository](https://github.com/ML4MX/blogpost-submission/pull/3)
+  - [Miguel P Xochicale](https://github.com/mxochicale)
+  - [Pull request repository](https://github.com/ML4MX/blogpost-submission/pull/3)
