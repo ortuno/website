@@ -1,6 +1,5 @@
 ---
 title: Why GitHub? and How to Use GitHub?
-featured:
 layout: post
 ---
 # Introduction

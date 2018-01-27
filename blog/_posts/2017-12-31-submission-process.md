@@ -1,6 +1,5 @@
 ---
 title: Submission Process
-featured:
 layout: post
 ---
 
