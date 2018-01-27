@@ -6,5 +6,7 @@ you can find the [TODO list](https://github.com/ML4MX/website/blob/master/docs/T
 and some general updates and messages the website.
 
 
-# Website Template 
+# Website Template
+
+[Horizons Template](http://themes.jekyllrc.org/horizons/)    
 Design:[TEMPLATED](http://templated.co) [Unsplash](http://unsplash.com) [CC0](http://unsplash.com/cc0) Jekyll Template: [Cloud Cannon](http://cloudcannon.com)
