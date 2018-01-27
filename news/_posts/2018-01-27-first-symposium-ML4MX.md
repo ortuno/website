@@ -1,6 +1,6 @@
 ---
 title: First Symposium of Machine Learning for Mexico
-featured: images/news/symposium/ML4MX_logo.png
+featured: images/news/symposium/ML4MXlogo.png
 layout: post
 ---
 
