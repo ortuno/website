@@ -1,3 +1,33 @@
+# ML4MX WEBSITE 0.3 RELEASE
+
+* It has been added a new entry in the news section: 
+[1er Simposio Virtual Machine Learning for México](https://ml4mx.github.io/website/news/2018/02/07/primer-simposio-ML4MX.html).
+ 
+* Following the pull request to review a blog post [[:link:](https://github.com/ML4MX/blogpost-submission/pull/3)], 
+the post [Why GitHub? and How to Use GitHub?](https://ml4mx.github.io/website/blog/2018/01/01/why-github.html)
+has been updated. 
+
+* For contributions of project submissions, a simple entry [[:link:](https://ml4mx.github.io/website/projects/2018/03/03/project-submission.html)]
+ has been created in order to invite the readers to visit [how to submit?](https://ml4mx.github.io/website/blog/2017/12/31/submission-process.html)
+and [Why GitHub? and How to Use GitHub?](https://ml4mx.github.io/website/blog/2018/01/01/why-github.html).
+
+* A logo has been created and used for the ML4MX github account [ml4mx-logo-v01.png](),
+which you can also be used for other social networks (twitter, YouTube, etc.).
+_The eagle is determined to devour [python](https://www.python.org/)_
+
+Please add your comments and issues for the website as [issues](https://github.com/ML4MX/website/issues). 
+Everyone is welcome to collaborate, so please fork the github repository and commit changes.
+
+> **NOTE**: For the first online symposium of ML4MX, I do hope that the people involved 
+in this forum encourage everyone to use both [github](https://github.com/) and any of the 
+available Open Source Software tools in the Internet with the idea of allowing 
+anyone to re-run and understand the code without any barriers.
+
+Miguel P Xochicale [@mxochicale](https://github.com/mxochicale)
+Birmingham, UK, 3 March 2018.
+
+
+
 # ML4MX WEBSITE 0.2 RELEASE
 
 These are the major changes in the [ML4MX website](https://ml4mx.github.io/website/):

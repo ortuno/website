@@ -1,10 +1,9 @@
-Design Logo
+Logo for ML4MX
 ---
 
 
-These are some image references for the logo cration
-# inkscape
+The logo has been created in `inkscape` as a SVG vector file format.
+Explore the paths for versions and further information.
 
-```
-inkscape --export-png logo_ml4mx_v##.png drawing.svg
-```
+
+
