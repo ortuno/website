@@ -14,8 +14,8 @@ it can also be used for scientific writing where you can have open discussions
 for your work which, esentially, the openness of [Github](http://github.com/) 
 plays a crucial role in scientific research (Klemm 2014). 
 In the scientific world, [Github](https://github.com/) is much more used than mercurial and bitbucket.
-A scholar.google search yields [199,000 results for a “github” search](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=github+&btnG=&oq=git), 
-while a [“bitbucket” search only returns 15,400 results](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=bitbucket&btnG=&oq=bi).
+A scholar.google search yields [199,000 results for a “github” search](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=github), 
+while a [“bitbucket” search only returns 15,400 results](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=bitbucket).
 on the 3 of March 2018 (EuroScipy 2013).
 In this regard, one interesting journal 
 is [ReScience](https://github.com/ReScience/), which its goal is to make available 
@@ -44,10 +44,8 @@ with the terminal, see this for a tutorial on how to use the
 ## Ubuntu, an Open Source System for Computers.
 We encourage the community of #ML4MX to use GNU/Linux distributions which goals 
 align with the spirit of doing open and replicable science.
-
-Users can also use of Windows OS, but many of their tools 
-are not open source which provide a barrier for anyone to re-run
-and understand the code.
+Users can also use of Windows OS, but take in mind that many of Windows OS tools 
+are not open source which provide a *barrier* for anyone to re-run and understand the code.
 
 We direct the reader to the following, two out of many, sources to learn more about 
 [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) (Ubuntu:Wikipedia 2018)
