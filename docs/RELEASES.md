@@ -11,11 +11,11 @@ has been updated.
  has been created in order to invite the readers to visit [how to submit?](https://ml4mx.github.io/website/blog/2017/12/31/submission-process.html)
 and [Why GitHub? and How to Use GitHub?](https://ml4mx.github.io/website/blog/2018/01/01/why-github.html).
 
-* A logo has been created and used for the ML4MX github account [ml4mx-logo-v01.png](),
+* A logo has been created and used for the ML4MX github account [ml4mx-logo-v01.png](https://github.com/ML4MX/website/blob/master/assets/images/logo/v01/ml4mx-logo-v01.png),
 which you can also be used for other social networks (twitter, YouTube, etc.).
-_The eagle is determined to devour [python](https://www.python.org/)_
+The semantic meaning of the logo is the following: _"The eagle is not the determination to devour a serpent but to tame [python](https://www.python.org/)"._
 
-Please add your comments and issues for the website as [issues](https://github.com/ML4MX/website/issues). 
+Please add your comments and issues for the ML4MX's website as [issues](https://github.com/ML4MX/website/issues). 
 Everyone is welcome to collaborate, so please fork the github repository and commit changes.
 
 > **NOTE**: For the first online symposium of ML4MX, I do hope that the people involved 
@@ -23,8 +23,9 @@ in this forum encourage everyone to use both [github](https://github.com/) and a
 available Open Source Software tools in the Internet with the idea of allowing 
 anyone to re-run and understand the code without any barriers.
 
-Miguel P Xochicale [@mxochicale](https://github.com/mxochicale)
+Miguel P Xochicale [@mxochicale](https://github.com/mxochicale)   
 Birmingham, UK, 3 March 2018.
+
 
 
 
