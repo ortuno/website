@@ -13,7 +13,7 @@ and [Why GitHub? and How to Use GitHub?](https://ml4mx.github.io/website/blog/20
 
 * A logo has been created and used for the ML4MX github account [ml4mx-logo-v01.png](https://github.com/ML4MX/website/blob/master/assets/images/logo/v01/ml4mx-logo-v01.png),
 which you can also be used for other social networks (twitter, YouTube, etc.).
-The semantic meaning of the logo is the following: _"The eagle is not the determination to devour a serpent but to tame [python](https://www.python.org/)"._
+The semantic meaning of the logo is the following: _"The eagle's determination is not to devour a serpent but to tame [python](https://www.python.org/)"._
 
 Please add your comments and issues for the ML4MX's website as [issues](https://github.com/ML4MX/website/issues). 
 Everyone is welcome to collaborate, so please fork the github repository and commit changes.
