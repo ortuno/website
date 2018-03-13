@@ -7,7 +7,10 @@ and [Website Configuration](https://github.com/ML4MX/website/blob/master/docs/we
 
 # Contact
 
+We invite anyone to collaborate, so fork the website and commit your pull request and become either a contributor or reviwer by [filling your information](https://github.com/ML4MX/website/issues/8)
+
 If you have a question or comment that might be relevant to other people, please open an [issue](https://github.com/ML4MX/website/issues).
+
 If you have any specific questions about the information of this repository, 
 you can contact Miguel P Xochicale ( [github.com/mxochicale](https://github.com/mxochicale),  [website](http://mxochicale.github.io) ).
 

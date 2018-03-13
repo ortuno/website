@@ -13,3 +13,12 @@ background: #333333 url("../images/picDL.jpg") no-repeat;
 ```
 <span class="byline">; ... </span>
 ```
+
+* with `~/_ layouts/landing.html`, you can also configure 
+the main sections of the main website, like mision, video, areas of research
+```
+<span class="byline">; ... </span>
+```
+
+
+
